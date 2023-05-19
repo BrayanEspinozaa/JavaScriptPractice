@@ -1,0 +1,25 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "This is a enviroment to practice JavaScript exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrayanEspinozaa/JavaScriptPractice.git"
+  },
+  "author": "Brayan Espinoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrayanEspinozaa/JavaScriptPractice/issues"
+  },
+  "homepage": "https://github.com/BrayanEspinozaa/JavaScriptPractice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
